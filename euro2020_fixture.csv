@@ -1,52 +1,52 @@
 match,date,name,venue,city,country,hometeam,awayteam,homegoal,awaygoal,status,update time 
-1,2021-06-11T19:00Z,Turkey vs Italy,Olimpico,Rome,Italy,Turkey,Italy,0,3,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-2,2021-06-12T13:00Z,Wales vs Switzerland,Baku Olympic Stadium,Baku,Azerbaijan,Wales,Switzerland,1,1,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-3,2021-06-12T16:00Z,Denmark vs Finland,Telia Parken,Copenhagen,Demark,Denmark,Finland,0,1,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-4,2021-06-12T19:00Z,Belgium vs Russia,Saint Petersburg Stadium,Saint Petersburg,Russia,Belgium,Russia,3,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-7,2021-06-13T13:00Z,England vs Croatia,Wembley Stadium,London,England,England,Croatia,1,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-6,2021-06-13T16:00Z,Austria vs North Macedonia,National Arena,Bucharest,Romania,Austria,North Macedonia,3,1,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-5,2021-06-13T19:00Z,Netherlands vs Ukraine,Johan Cruijff Arena,Amsterdam,Netherlands,Netherlands,Ukraine,3,2,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-8,2021-06-14T13:00Z,Scotland vs Czech Republic,Hampden Park,Glasgow,Scottland,Scotland,Czech Republic,0,2,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-10,2021-06-14T16:00Z,Poland vs Slovakia,Saint Petersburg Stadium,Saint Petersburg,Russia,Poland,Slovakia,1,2,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-9,2021-06-14T19:00Z,Spain vs Sweden,Estadio Olímpico de la Cartuja,Seville,Spain,Spain,Sweden,0,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-11,2021-06-15T16:00Z,Hungary vs Portugal,Puskás Aréna,Budapest,Hungary,Hungary,Portugal,0,3,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-12,2021-06-15T19:00Z,France vs Germany,Allianz Arena,Munich,Germany,France,Germany,1,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-16,2021-06-16T13:00Z,Finland vs Russia,Saint Petersburg Stadium,Saint Petersburg,Russia,Finland,Russia,0,1,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-13,2021-06-16T16:00Z,Turkey vs Wales,Baku Olympic Stadium,Baku,Azerbaijan,Turkey,Wales,0,2,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-14,2021-06-16T19:00Z,Italy vs Switzerland,Olimpico,Rome,Italy,Italy,Switzerland,3,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-18,2021-06-17T13:00Z,Ukraine vs North Macedonia,National Arena,Bucharest,Romania,Ukraine,North Macedonia,2,1,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-15,2021-06-17T16:00Z,Denmark vs Belgium,Telia Parken,Copenhagen,Demark,Denmark,Belgium,1,2,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-17,2021-06-17T19:00Z,Netherlands vs Austria,Johan Cruijff Arena,Amsterdam,Netherlands,Netherlands,Austria,2,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-21,2021-06-18T13:00Z,Sweden vs Slovakia,Saint Petersburg Stadium,Saint Petersburg,Russia,Sweden,Slovakia,1,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-19,2021-06-18T16:00Z,Croatia vs Czech Republic,Hampden Park,Glasgow,Scottland,Croatia,Czech Republic,1,1,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-20,2021-06-18T19:00Z,England vs Scotland,Wembley Stadium,London,England,England,Scotland,0,0,STATUS_FULL_TIME,2021-06-18T21:45:08Z
-23,2021-06-19T13:00Z,Hungary vs France,Puskás Aréna,Budapest,Hungary,Hungary,France,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-24,2021-06-19T16:00Z,Portugal vs Germany,Allianz Arena,Munich,Germany,Portugal,Germany,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-22,2021-06-19T19:00Z,Spain vs Poland,Estadio Olímpico de la Cartuja,Seville,Spain,Spain,Poland,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-26,2021-06-20T16:00Z,Italy vs Wales,Olimpico,Rome,Italy,Italy,Wales,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-25,2021-06-20T16:00Z,Switzerland vs Turkey,Baku Olympic Stadium,Baku,Azerbaijan,Switzerland,Turkey,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-29,2021-06-21T16:00Z,North Macedonia vs Netherlands,Johan Cruijff Arena,Amsterdam,Netherlands,North Macedonia,Netherlands,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-30,2021-06-21T16:00Z,Ukraine vs Austria,National Arena,Bucharest,Romania,Ukraine,Austria,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-28,2021-06-21T19:00Z,Finland vs Belgium,Saint Petersburg Stadium,Saint Petersburg,Russia,Finland,Belgium,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-27,2021-06-21T19:00Z,Russia vs Denmark,Telia Parken,Copenhagen,Demark,Russia,Denmark,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-31,2021-06-22T19:00Z,Croatia vs Scotland,Hampden Park,Glasgow,Scottland,Croatia,Scotland,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-32,2021-06-22T19:00Z,Czech Republic vs England,Wembley Stadium,London,England,Czech Republic,England,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-33,2021-06-23T16:00Z,Slovakia vs Spain,Estadio Olímpico de la Cartuja,Seville,Spain,Slovakia,Spain,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-34,2021-06-23T16:00Z,Sweden vs Poland,Saint Petersburg Stadium,Saint Petersburg,Russia,Sweden,Poland,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-36,2021-06-23T19:00Z,Germany vs Hungary,Allianz Arena,Munich,Germany,Germany,Hungary,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-35,2021-06-23T19:00Z,Portugal vs France,Puskás Aréna,Budapest,Hungary,Portugal,France,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-38,2021-06-26T16:00Z,2A vs 2B,Johan Cruijff Arena,Amsterdam,Netherlands,2A,2B,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-37,2021-06-26T19:00Z,1A vs 2C,Wembley Stadium,London,England,1A,2C,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-40,2021-06-27T16:00Z,Netherlands vs 3rd Place Group D/E/F,Puskás Aréna,Budapest,Hungary,Netherlands,3rd Place Group D/E/F,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-39,2021-06-27T19:00Z,1B vs 3rd Place Group A/D/E/F,Estadio Olímpico de la Cartuja,Seville,Spain,1B,3rd Place Group A/D/E/F,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-42,2021-06-28T16:00Z,2D vs 2E,Telia Parken,Copenhagen,Demark,2D,2E,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-41,2021-06-28T19:00Z,1F vs 3rd Place Group A/B/C,National Arena,Bucharest,Romania,1F,3rd Place Group A/B/C,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-44,2021-06-29T16:00Z,1D vs 2F,Wembley Stadium,London,England,1D,2F,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-43,2021-06-29T19:00Z,1E vs 3rd Place Group A/B/C/D,Hampden Park,Glasgow,Scottland,1E,3rd Place Group A/B/C/D,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-45,2021-07-02T16:00Z,quarterfinalist 1 vs quarterfinalist 2,Saint Petersburg Stadium,Saint Petersburg,Russia,quarterfinalist 1,quarterfinalist 2,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-46,2021-07-02T19:00Z,quarterfinalist 3 vs quarterfinalist 4,Allianz Arena,Munich,Germany,quarterfinalist 3,quarterfinalist 4,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-47,2021-07-03T16:00Z,quarterfinalist 5 vs quarterfinalist 6,Baku Olympic Stadium,Baku,Azerbaijan,quarterfinalist 5,quarterfinalist 6,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-48,2021-07-03T19:00Z,quarterfinalist 7 vs quarterfinalist 8,Olimpico,Rome,Italy,quarterfinalist 7,quarterfinalist 8,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-49,2021-07-06T19:00Z,semifinalist 1 vs semifinalist 2,Wembley Stadium,London,England,semifinalist 1,semifinalist 2,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-50,2021-07-07T19:00Z,semifinalist 3 vs semifinalist 4,Wembley Stadium,London,England,semifinalist 3,semifinalist 4,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
-51,2021-07-11T19:00Z,semifinal 1 winner vs semifinal 2 winner,Wembley Stadium,London,England,semifinal 1 winner,semifinal 2 winner,none,none,STATUS_SCHEDULED,2021-06-18T21:45:08Z
+1,2021-06-11T19:00Z,Turkey vs Italy,Olimpico,Rome,Italy,Turkey,Italy,0,3,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+2,2021-06-12T13:00Z,Wales vs Switzerland,Baku Olympic Stadium,Baku,Azerbaijan,Wales,Switzerland,1,1,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+3,2021-06-12T16:00Z,Denmark vs Finland,Telia Parken,Copenhagen,Demark,Denmark,Finland,0,1,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+4,2021-06-12T19:00Z,Belgium vs Russia,Saint Petersburg Stadium,Saint Petersburg,Russia,Belgium,Russia,3,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+7,2021-06-13T13:00Z,England vs Croatia,Wembley Stadium,London,England,England,Croatia,1,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+6,2021-06-13T16:00Z,Austria vs North Macedonia,National Arena,Bucharest,Romania,Austria,North Macedonia,3,1,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+5,2021-06-13T19:00Z,Netherlands vs Ukraine,Johan Cruijff Arena,Amsterdam,Netherlands,Netherlands,Ukraine,3,2,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+8,2021-06-14T13:00Z,Scotland vs Czech Republic,Hampden Park,Glasgow,Scottland,Scotland,Czech Republic,0,2,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+10,2021-06-14T16:00Z,Poland vs Slovakia,Saint Petersburg Stadium,Saint Petersburg,Russia,Poland,Slovakia,1,2,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+9,2021-06-14T19:00Z,Spain vs Sweden,Estadio Olímpico de la Cartuja,Seville,Spain,Spain,Sweden,0,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+11,2021-06-15T16:00Z,Hungary vs Portugal,Puskás Aréna,Budapest,Hungary,Hungary,Portugal,0,3,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+12,2021-06-15T19:00Z,France vs Germany,Allianz Arena,Munich,Germany,France,Germany,1,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+16,2021-06-16T13:00Z,Finland vs Russia,Saint Petersburg Stadium,Saint Petersburg,Russia,Finland,Russia,0,1,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+13,2021-06-16T16:00Z,Turkey vs Wales,Baku Olympic Stadium,Baku,Azerbaijan,Turkey,Wales,0,2,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+14,2021-06-16T19:00Z,Italy vs Switzerland,Olimpico,Rome,Italy,Italy,Switzerland,3,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+18,2021-06-17T13:00Z,Ukraine vs North Macedonia,National Arena,Bucharest,Romania,Ukraine,North Macedonia,2,1,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+15,2021-06-17T16:00Z,Denmark vs Belgium,Telia Parken,Copenhagen,Demark,Denmark,Belgium,1,2,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+17,2021-06-17T19:00Z,Netherlands vs Austria,Johan Cruijff Arena,Amsterdam,Netherlands,Netherlands,Austria,2,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+21,2021-06-18T13:00Z,Sweden vs Slovakia,Saint Petersburg Stadium,Saint Petersburg,Russia,Sweden,Slovakia,1,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+19,2021-06-18T16:00Z,Croatia vs Czech Republic,Hampden Park,Glasgow,Scottland,Croatia,Czech Republic,1,1,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+20,2021-06-18T19:00Z,England vs Scotland,Wembley Stadium,London,England,England,Scotland,0,0,STATUS_FULL_TIME,2021-06-18T22:00:08Z
+23,2021-06-19T13:00Z,Hungary vs France,Puskás Aréna,Budapest,Hungary,Hungary,France,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+24,2021-06-19T16:00Z,Portugal vs Germany,Allianz Arena,Munich,Germany,Portugal,Germany,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+22,2021-06-19T19:00Z,Spain vs Poland,Estadio Olímpico de la Cartuja,Seville,Spain,Spain,Poland,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+26,2021-06-20T16:00Z,Italy vs Wales,Olimpico,Rome,Italy,Italy,Wales,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+25,2021-06-20T16:00Z,Switzerland vs Turkey,Baku Olympic Stadium,Baku,Azerbaijan,Switzerland,Turkey,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+29,2021-06-21T16:00Z,North Macedonia vs Netherlands,Johan Cruijff Arena,Amsterdam,Netherlands,North Macedonia,Netherlands,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+30,2021-06-21T16:00Z,Ukraine vs Austria,National Arena,Bucharest,Romania,Ukraine,Austria,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+28,2021-06-21T19:00Z,Finland vs Belgium,Saint Petersburg Stadium,Saint Petersburg,Russia,Finland,Belgium,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+27,2021-06-21T19:00Z,Russia vs Denmark,Telia Parken,Copenhagen,Demark,Russia,Denmark,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+31,2021-06-22T19:00Z,Croatia vs Scotland,Hampden Park,Glasgow,Scottland,Croatia,Scotland,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+32,2021-06-22T19:00Z,Czech Republic vs England,Wembley Stadium,London,England,Czech Republic,England,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+33,2021-06-23T16:00Z,Slovakia vs Spain,Estadio Olímpico de la Cartuja,Seville,Spain,Slovakia,Spain,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+34,2021-06-23T16:00Z,Sweden vs Poland,Saint Petersburg Stadium,Saint Petersburg,Russia,Sweden,Poland,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+36,2021-06-23T19:00Z,Germany vs Hungary,Allianz Arena,Munich,Germany,Germany,Hungary,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+35,2021-06-23T19:00Z,Portugal vs France,Puskás Aréna,Budapest,Hungary,Portugal,France,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+38,2021-06-26T16:00Z,2A vs 2B,Johan Cruijff Arena,Amsterdam,Netherlands,2A,2B,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+37,2021-06-26T19:00Z,1A vs 2C,Wembley Stadium,London,England,1A,2C,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+40,2021-06-27T16:00Z,Netherlands vs 3rd Place Group D/E/F,Puskás Aréna,Budapest,Hungary,Netherlands,3rd Place Group D/E/F,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+39,2021-06-27T19:00Z,1B vs 3rd Place Group A/D/E/F,Estadio Olímpico de la Cartuja,Seville,Spain,1B,3rd Place Group A/D/E/F,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+42,2021-06-28T16:00Z,2D vs 2E,Telia Parken,Copenhagen,Demark,2D,2E,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+41,2021-06-28T19:00Z,1F vs 3rd Place Group A/B/C,National Arena,Bucharest,Romania,1F,3rd Place Group A/B/C,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+44,2021-06-29T16:00Z,1D vs 2F,Wembley Stadium,London,England,1D,2F,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+43,2021-06-29T19:00Z,1E vs 3rd Place Group A/B/C/D,Hampden Park,Glasgow,Scottland,1E,3rd Place Group A/B/C/D,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+45,2021-07-02T16:00Z,quarterfinalist 1 vs quarterfinalist 2,Saint Petersburg Stadium,Saint Petersburg,Russia,quarterfinalist 1,quarterfinalist 2,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+46,2021-07-02T19:00Z,quarterfinalist 3 vs quarterfinalist 4,Allianz Arena,Munich,Germany,quarterfinalist 3,quarterfinalist 4,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+47,2021-07-03T16:00Z,quarterfinalist 5 vs quarterfinalist 6,Baku Olympic Stadium,Baku,Azerbaijan,quarterfinalist 5,quarterfinalist 6,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+48,2021-07-03T19:00Z,quarterfinalist 7 vs quarterfinalist 8,Olimpico,Rome,Italy,quarterfinalist 7,quarterfinalist 8,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+49,2021-07-06T19:00Z,semifinalist 1 vs semifinalist 2,Wembley Stadium,London,England,semifinalist 1,semifinalist 2,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+50,2021-07-07T19:00Z,semifinalist 3 vs semifinalist 4,Wembley Stadium,London,England,semifinalist 3,semifinalist 4,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
+51,2021-07-11T19:00Z,semifinal 1 winner vs semifinal 2 winner,Wembley Stadium,London,England,semifinal 1 winner,semifinal 2 winner,none,none,STATUS_SCHEDULED,2021-06-18T22:00:08Z
